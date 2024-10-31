@@ -2,3 +2,5 @@
 let m = 11;
 while (m % 7 !== 0) {
   m++;
+}
+console.log("Primer múltiplo de 7 mayor que 10:", m);
